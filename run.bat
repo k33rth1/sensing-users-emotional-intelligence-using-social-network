@@ -1,0 +1,2 @@
+python EmotionalIntelligence.py
+pause
